@@ -15,7 +15,7 @@ const walletConnect = walletConnectModule({
   projectId: '5f4e967f02cf92c8db957c56e877e149',
   requiredChains: [10, 42161],
   optionalChains: [421614, 11155420],
-  dappUrl: 'https://example-dex.vercel.app'
+  dappUrl: 'https://orderlynetwork.github.io/example-dex'
 });
 
 const web3Onboard = init({
