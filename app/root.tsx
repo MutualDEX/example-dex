@@ -8,7 +8,7 @@ import walletConnectModule from '@web3-onboard/walletconnect';
 
 import { App } from '~/App';
 import globalCss from '~/global.css?url';
-import uno from '~/styles/uno.css?url';
+/*import uno from '~/styles/uno.css?url';*/
 
 const injected = injectedModule();
 const walletConnect = walletConnectModule({
